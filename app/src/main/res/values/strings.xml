@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPI_PrD2</string>
+    <string name="_1_aktivit_te">1. Aktivitāte</string>
+    <string name="aktivitate2">Aktivitate2</string>
+    <string name="dialog_btn">Dialogs</string>
+    <string name="_2_aktivitate">2. Aktivitate</string>
+    <string name="aktivitate1">Aktivitate1</string>
+    <string name="ok">Labi</string>
+    <string name="cancel">Atcelt</string>
+    <string name="check">" izvēlēts!"</string>
+    <string name="not_checked">" (ne)izvēlēts!"</string>
+</resources>
