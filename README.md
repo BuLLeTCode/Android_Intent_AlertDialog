@@ -1,6 +1,6 @@
 # Android Intent, AlertDialog
 
-#Just reminder for Android basics for: 
+Just reminder for Android basics: 
 - Intent 
 - Alertdialog
 - arrays.xml 
